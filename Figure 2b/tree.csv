@@ -1,0 +1,20 @@
+organism,Nucleosomal,Fold-to-fold,Coiled-coil bridging,Jannaschii bridging
+Iainarchaeota,1,1,1,0
+Hadarchaeota,1,1,0,0
+Halobacteriota,1,1,0,0
+Thermoplasmatota,1,1,0,0
+Thermoproteota,1,1,0,0
+Asgardarchaeota,1,1,0,0
+Methanobacteriota,1,0,1,0
+Hydrothermarchaeota,1,0,0,0
+Methanobacteriota_A,1,0,0,1
+Methanobacteriota_B,1,1,1,0
+Micrarchaeota,1,1,1,0
+Altiarchaeota,1,1,1,0
+Nanoarchaeota,1,1,1,0
+Aenigmatarchaeota,1,1,1,0
+Nanohaloarchaeota,1,1,1,0
+Undinarchaeota,1,0,1,0
+B1Sed10-29,0,0,1,0
+EX4484-52,1,1,1,0
+SpSt-1190,1,0,0,0
